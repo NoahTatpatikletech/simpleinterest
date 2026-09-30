@@ -1,4 +1,4 @@
-P = int(input("Enter your principle amount :"));
+P = float(input("Enter your principle amount :"));
 T = int(input("Enter Time: "))
 R = float(input("Enter rate: "))
 
